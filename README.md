@@ -1,5 +1,5 @@
 # 01-create-react-app
-透過create-react-app  projectName 生成之檔案
+透過create-react-app  projectName 生成之初始檔案結構
 
 說明：[01-react-start](https://yumememooo.github.io/2020/05/16/react-create-react-app/)
 
