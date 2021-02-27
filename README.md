@@ -1,3 +1,11 @@
+# 01-create-react-app
+透過create-react-app  projectName 生成之檔案
+
+說明：[01-react-start](https://yumememooo.github.io/2020/05/16/react-create-react-app/)
+
+![folder](folder.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
